@@ -61,4 +61,4 @@ Manter um ambiente organizado para acompanhar minha evolução acadêmica, regis
 
 ---
 
-> **📌 Este repositório está em construção e será atualizado conforme o avanço do curso**.
+> **📌 Repositório em construção:** o conteúdo será atualizado conforme o andamento do curso.
